@@ -1,14 +1,14 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Ravi Ojha
+name: Pramesh Ojha
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Ravi Ojha's personal space on the internet
+description: Pramesh Ojha's personal space on the internet
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Ravi Ojha
+author: Pramesh Ojha
 
 # Your email if you want it to be linked on the contact page
-author_email: ivarojha@gmail.com
+author_email: prameshojha079@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
@@ -21,7 +21,7 @@ category_dir: /
 baseurl:
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://raviojha.com/
+url: http://prameshojha.com/
 
 #### Under the Hood Stuff #####
 
